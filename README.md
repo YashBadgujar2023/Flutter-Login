@@ -1,4 +1,4 @@
-# First Project
+# Flutter Project
 
 This is my first project and i worked very hard on it.
 
